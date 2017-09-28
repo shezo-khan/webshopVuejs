@@ -1,19 +1,4 @@
-# Ultimate Vue.js Developers Course
-
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
-
 ### Project 1: Vue.js Poster Shop
-
-#### Demo
-
-See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](http://vuejs-poster-shop.vuejsdevelopers.com/)
-
-#### Pre-installation
-
-1. Ensure [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
-2. Register Oauth 2 access to the [Imgur API](https://api.imgur.com/oauth2/addclient).
-
-    Register for OAuth 2 authorization without a callback URL. You can name your application anything you like and you don't need a callback URL. The important thing is that you get a *client ID*. 
 
 #### Installation
 
